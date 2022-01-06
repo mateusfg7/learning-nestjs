@@ -1,0 +1,8 @@
+{
+  "name": "learning-nestjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mateusfg7/learning-nestjs.git",
+  "author": "Mateus Felipe Gonçalves <mateusfelipefg77@gmail.com>",
+  "license": "MIT"
+}
